@@ -9,22 +9,28 @@ public class CharExample {
 //		char type은 "보다는 '를 사용한다(더블보다는 싱글)//		
 		
 		
-		char c1 = 'A'; 		//문자를 저장
-		char c2 = 65;		//십진수로 저장
-		char c3 = '\u0041';	//16진수로 저장
+		char c1 = 'A'; 			//문자를 저장
+		char c2 = 65;			//십진수로 저장
+		char c3 = '\u0041';		//16진수로 저장
 		
 		System.out.println(c1);
 		System.out.println(c2);
 		System.out.println(c3);
 		
 
- 		char c4 = '가'; 
- 		char c5 = 44032; 
- 		char c6 = '\uac00';
+ 		char c4 = '가'; 			//문자를 저장
+ 		char c5 = 44032; 		//십진수로 저장
+ 		char c6 = '\uac00'; 	//16진수로 저장
  		
  		System.out.println(c4);
 		System.out.println(c5);
 		System.out.println(c6);
 		
+		int uniCode = c1;
+		System.out.println(uniCode);
+		
+		
+		int uniCode2 = c4;
+		System.out.println(uniCode2);
 	}
 }
