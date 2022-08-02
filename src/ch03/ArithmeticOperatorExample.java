@@ -22,5 +22,14 @@ public class ArithmeticOperatorExample {
 		int result5 = v1%v2 ;
 		System.out.println("result5=" + result5);
 		
+		
+		// 나누기할때는 정수말고 실수가 나올수도있으므로 double함수를 써준다
+		
+		double result6 = v1 / v2 ;
+		System.out.println("result6:" + result6);
+		
+		double result7 = (double)v1 / v2 ;
+		System.out.println("result7:" + result7);
+		
 	}
 }

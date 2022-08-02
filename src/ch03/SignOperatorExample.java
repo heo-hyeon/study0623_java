@@ -4,7 +4,6 @@ public class SignOperatorExample {
 
 	public static void main(String[] args) {
 		
-		// 변수 3개 선언 
 		
 		int x = 100;
 		
