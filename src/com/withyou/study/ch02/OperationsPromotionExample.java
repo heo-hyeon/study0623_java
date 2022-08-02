@@ -82,7 +82,6 @@ public class OperationsPromotionExample {
 //		int intValue5 = intValue + doubleValue;
 		double doubleValue4 = intValue + doubleValue;
 		System.out.println(doubleValue4);
-		
 	}
 		
 			
