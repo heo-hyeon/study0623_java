@@ -31,5 +31,22 @@ public class ArithmeticOperatorExample {
 		double result7 = (double)v1 / v2 ;
 		System.out.println("result7:" + result7);
 		
-	}
+		//예제
+		int a = 8;
+		int b = 7;
+		int c = 5;
+		int result10 = a+b+c ;
+		System.out.println("result10:" + result10);
+		
+		sum(8,7,5);
+		sum(1,9,5);
+		sum(5,6,6);
+		sum(4,7,1);
+		sum(7,5,5);
+		}
+	
+	
+		public static void sum (int a, int b, int c) {
+			System.out.println(a + "+" + b + "+" + c + "="+(a+b+c));
+		}
 }
