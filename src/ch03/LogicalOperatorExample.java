@@ -62,6 +62,5 @@ public class LogicalOperatorExample {
 		if (a >= 90 ^ a <=30) {
 			System.out.println("둘다 폴스여서 안 보인다");
 		}
-
 	}
 }
