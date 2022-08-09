@@ -10,11 +10,11 @@ public class IfExample5 {
 		int a = 3 ;
 		int b = 6 ;
 		
-		if (a > 0 & b >0 ) {
+		if (a > 0 && b >0 ) {
 			System.out.println("1사분면");
-		} else if (a < 0 & b > 0 ) {
+		} else if (a < 0 && b > 0 ) {
 			System.out.println("2사분면");
-		} else if (a < 0 & b < 0) {
+		} else if (a < 0 && b < 0) {
 			System.out.println("3사분면");
 		} else {
 			System.out.println("4사분면");
