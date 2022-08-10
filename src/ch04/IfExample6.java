@@ -15,7 +15,7 @@ public class IfExample6 {
 			} else if (y<x && x<z) {
 				System.out.println("최댓값은:" + z);
 			} else {
-				System.out.println("최댓값은:" + z);
+				System.out.println("최댓값은:" + y);
 			}
 	
 			if (x<y && x<z) {

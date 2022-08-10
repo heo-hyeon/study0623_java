@@ -37,9 +37,8 @@ public class SwitchExample2 {
 				salesCost = cost*(1-0.027);
 				System.out.println("정가가 " + cost + "원인 플래티넘 등급의 할인가는:" +(int)salesCost + "원 입니다.");
 				break;
-		} 	default {
+		} 	default : {
 				System.out.println("1~5까지의 grade만 가능합니다.");
-				break;
 		}
 	}
 }
