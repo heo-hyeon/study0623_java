@@ -1,4 +1,4 @@
-package com.withyou.study.ch02;
+package ch02;
 
 import javax.sound.midi.SysexMessage;
 
