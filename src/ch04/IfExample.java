@@ -78,7 +78,7 @@ public class IfExample {
 	}
 	else {
 			System.out.println("F");
-			else if (score >= 70 & score <80) {
+		 if (score >= 70 & score <80) {
 				if(score >=77) {
 					System.out.println("C+");
 				}

@@ -18,9 +18,9 @@ public class SwitchExample {
  				break;
 		}
 
-		String position = "사원";
+/*		String position = "사원";
 		
-		switch (position) {
+		switch (position ) {
 		case "사원" :
 			System.out.println("연봉은 5,000입니다");
 			break;
@@ -28,7 +28,8 @@ public class SwitchExample {
 			System.out.
 			println("연봉은 6,000입니다");
 		case "과장" :
-			System.out.println("연봉은 7,000입니다");}
+			System.out.println("연봉은 7,000입니다");
+		}*/
 	}
 
 }
