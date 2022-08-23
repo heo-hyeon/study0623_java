@@ -19,6 +19,8 @@ public class CarName {
 		name = name;
 		CC = CC;
 		color = color;
+		
+		// 변수 선언시 이름 똑같이 해주는 게 좋다.
 	}
 
 }
