@@ -24,3 +24,15 @@ public class CarName {
 	}
 
 }
+
+
+
+
+CarName carname = new CarName();
+
+CarName carname1 = new CarName("허현");
+CarName carname2 = new CarName(29);
+Carname carname3 = new CarName("헌지", 29);
+
+System.out.println("CarName.name : " + carname.name);
+
