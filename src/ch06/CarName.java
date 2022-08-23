@@ -16,9 +16,9 @@ public class CarName {
 	}
 	
 	CarName (String name, int CC, String color) {
-		name = name;
-		CC = CC;
-		color = color;
+		this.name = name;
+		this.CC = CC;
+		this.color = color;
 		
 		// 변수 선언시 이름 똑같이 해주는 게 좋다.
 	}
