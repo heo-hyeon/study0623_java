@@ -22,17 +22,7 @@ public class CarName {
 		
 		// 변수 선언시 이름 똑같이 해주는 게 좋다.
 	}
-
 }
 
 
-
-
-CarName carname = new CarName();
-
-CarName carname1 = new CarName("허현");
-CarName carname2 = new CarName(29);
-Carname carname3 = new CarName("헌지", 29);
-
-System.out.println("CarName.name : " + carname.name);
 
