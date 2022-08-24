@@ -1,10 +1,9 @@
 package ch06;
 
 public class Korean {
-	String name = "장원영" ;
-	String ssn = "011225-1234567" ;
-	int age = 45 ;
-	
+	String name;
+	String ssn;
+	int age;
 	
 	Korean () {
 		
@@ -23,4 +22,28 @@ public class Korean {
 		this.name = name;
 		this.age = age;
 	}
+	
+	static String nationality = "대한민국" ;
+	
+	static int staticTest (int a) {
+		return a + 10;
+	}
+	
+	int staticTest2 (int a) {
+		return a-10;
+	}
+	
+	int ttest() {
+		Arithmetic arithmetic = new Arithmetic();
+		
+		arithmetic.num(12);
+		
+		return 1;
+	}
+	
+	public void ttest2 () {
+		
+		Arithmetic.staticTest();
+	}
 }
+
