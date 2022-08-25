@@ -15,7 +15,7 @@ public class DmbCellPhoneExample {
 		dmbcellPhone2.changeChannelDmb(70);
 		dmbcellPhone2.turnOffDmb();
 			
-		// 부모,자식 클래스 함수 호출
+		// 부모 클래스 함수 호출
 		dmbcellPhone2.powerOn();
 		dmbcellPhone2.powerOff();
 		dmbcellPhone2.bell();
