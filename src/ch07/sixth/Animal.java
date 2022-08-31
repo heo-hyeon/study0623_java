@@ -1,4 +1,4 @@
-package sitxh;
+package ch07.sixth;
 
 public abstract class Animal {
 public String kind;

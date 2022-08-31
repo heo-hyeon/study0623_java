@@ -1,4 +1,4 @@
-package fifth;
+package ch07.fifth;
 
 public class SmartPhone extends Phone {
 	public SmartPhone(String owner) {

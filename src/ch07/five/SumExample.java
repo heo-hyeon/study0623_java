@@ -1,4 +1,4 @@
-package five;
+package ch07.five;
 
 public class SumExample {
 

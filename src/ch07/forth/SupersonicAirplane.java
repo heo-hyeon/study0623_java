@@ -1,4 +1,4 @@
-package forth;
+package ch07.forth;
 
 public class SupersonicAirplane extends Airplane {
 

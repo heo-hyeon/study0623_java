@@ -1,4 +1,4 @@
-package sitxh;
+package ch07.sixth;
 
 public class Dog extends Animal {
 

@@ -1,4 +1,4 @@
-package third;
+package ch07.third;
 
 public class Calculator {
 
