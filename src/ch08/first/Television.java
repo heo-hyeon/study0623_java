@@ -23,5 +23,5 @@ public void setVolume(int volume){
 		this.volume = volume;
 	}
 	System.out.println("현재 TV 볼륨: " + this.volume);
-}
+	}
 }

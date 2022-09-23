@@ -1,7 +1,6 @@
 module study0623_java {
 	exports ch07.second;
 	exports ch05;
-	exports test;
 	exports ch06;
 	exports ch07.fifth;
 	exports ch03;
